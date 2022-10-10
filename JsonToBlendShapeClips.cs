@@ -50,7 +50,7 @@ namespace Assets
                 var values = clips[i].values;
                 
                 var newClip = BlendShapeAvatar.CreateBlendShapeClip(
-                    Path.Combine(blendShapeClipsFolder, name, ".asset"));
+                    Path.Combine(blendShapeClipsFolder, name + ".asset"));
                 newClip.Values = new BlendShapeBinding[values.Length];
                 
                 // assign the combination of BlendShapes to the clip (usually only one)
