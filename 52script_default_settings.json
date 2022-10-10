@@ -1,0 +1,512 @@
+{
+    "list": [
+        {
+            "name": "BrowDownLeft",
+            "values": [
+                {
+                    "blendshape": "browDownLeft",
+                    "weight": 70
+                }
+            ]
+        },
+        {
+            "name": "BrowDownRight",
+            "values": [
+                {
+                    "blendshape": "browDownRight",
+                    "weight": 70
+                }
+            ]
+        },
+        {
+            "name": "BrowInnerUp",
+            "values": [
+                {
+                    "blendshape": "browInnerUp",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "BrowOuterUpLeft",
+            "values": [
+                {
+                    "blendshape": "browOuterUpLeft",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "BrowOuterUpRight",
+            "values": [
+                {
+                    "blendshape": "browOuterUpRight",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "CheekPuff",
+            "values": [
+                {
+                    "blendshape": "cheekPuff",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "CheekSquintLeft",
+            "values": [
+                {
+                    "blendshape": "cheekSquintLeft",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "CheekSquintRight",
+            "values": [
+                {
+                    "blendshape": "cheekSquintRight",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "EyeBlinkLeft",
+            "values": [
+                {
+                    "blendshape": "Fcl_EYE_Close_L",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "EyeBlinkRight",
+            "values": [
+                {
+                    "blendshape": "Fcl_EYE_Close_R",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "EyeLookDownLeft",
+            "values": [
+                {
+                    "blendshape": "eyeLookDownLeft",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "EyeLookDownRight",
+            "values": [
+                {
+                    "blendshape": "eyeLookDownRight",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "EyeLookInLeft",
+            "values": [
+                {
+                    "blendshape": "eyeLookInLeft",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "EyeLookInRight",
+            "values": [
+                {
+                    "blendshape": "eyeLookInRight",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "EyeLookOutLeft",
+            "values": [
+                {
+                    "blendshape": "eyeLookOutLeft",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "EyeLookOutRight",
+            "values": [
+                {
+                    "blendshape": "eyeLookOutRight",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "EyeLookUpLeft",
+            "values": [
+                {
+                    "blendshape": "eyeLookUpLeft",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "EyeLookUpRight",
+            "values": [
+                {
+                    "blendshape": "eyeLookUpRight",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "EyeSquintLeft",
+            "values": [
+                {
+                    "blendshape": "eyeSquintLeft",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "EyeSquintRight",
+            "values": [
+                {
+                    "blendshape": "eyeSquintRight",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "EyeWideLeft",
+            "values": [
+                {
+                    "blendshape": "eyeWideLeft",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "EyeWideRight",
+            "values": [
+                {
+                    "blendshape": "eyeWideRight",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "JawForward",
+            "values": [
+                {
+                    "blendshape": "jawForward",
+                    "weight": 50
+                }
+            ]
+        },
+        {
+            "name": "JawLeft",
+            "values": [
+                {
+                    "blendshape": "jawLeft",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "JawOpen",
+            "values": [
+                {
+                    "blendshape": "jawOpen",
+                    "weight": 85
+                }
+            ]
+        },
+        {
+            "name": "JawRight",
+            "values": [
+                {
+                    "blendshape": "jawRight",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "MouthClose",
+            "values": [
+                {
+                    "blendshape": "mouthClose",
+                    "weight": 85
+                }
+            ]
+        },
+        {
+            "name": "MouthDimpleLeft",
+            "values": [
+                {
+                    "blendshape": "mouthDimpleLeft",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "MouthDimpleRight",
+            "values": [
+                {
+                    "blendshape": "mouthDimpleRight",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "MouthFrownLeft",
+            "values": [
+                {
+                    "blendshape": "mouthFrownLeft",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "MouthFrownRight",
+            "values": [
+                {
+                    "blendshape": "mouthFrownRight",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "MouthFunnel",
+            "values": [
+                {
+                    "blendshape": "mouthFunnel",
+                    "weight": 90
+                }
+            ]
+        },
+        {
+            "name": "MouthLeft",
+            "values": [
+                {
+                    "blendshape": "mouthLeft",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "MouthLowerDownLeft",
+            "values": [
+                {
+                    "blendshape": "mouthLowerDownLeft",
+                    "weight": 100
+                },
+                {
+                    "blendshape": "mouthFrownLeft",
+                    "weight": 20
+                }
+            ]
+        },
+        {
+            "name": "MouthLowerDownRight",
+            "values": [
+                {
+                    "blendshape": "mouthLowerDownRight",
+                    "weight": 100
+                },
+                {
+                    "blendshape": "mouthFrownRight",
+                    "weight": 20
+                }
+            ]
+        },
+        {
+            "name": "MouthPressLeft",
+            "values": [
+                {
+                    "blendshape": "mouthPressLeft",
+                    "weight": 100
+                },
+                {
+                    "blendshape": "_mouthPress+CatMouth",
+                    "weight": 50
+                },
+                {
+                    "blendshape": "_mouthPress+DuckMouth_L",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "MouthPressRight",
+            "values": [
+                {
+                    "blendshape": "mouthPressRight",
+                    "weight": 100
+                },
+                {
+                    "blendshape": "_mouthPress+CatMouth",
+                    "weight": 50
+                },
+                {
+                    "blendshape": "_mouthPress+DuckMouth_R",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "MouthPucker",
+            "values": [
+                {
+                    "blendshape": "mouthPucker",
+                    "weight": 60
+                }
+            ]
+        },
+        {
+            "name": "MouthRight",
+            "values": [
+                {
+                    "blendshape": "mouthRight",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "MouthRollLower",
+            "values": [
+                {
+                    "blendshape": "mouthRollLower",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "MouthRollUpper",
+            "values": [
+                {
+                    "blendshape": "mouthRollUpper",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "MouthShrugLower",
+            "values": [
+                {
+                    "blendshape": "mouthShrugLower",
+                    "weight": 100
+                },
+                {
+                    "blendshape": "mouthFrownLeft",
+                    "weight": 50
+                },
+                {
+                    "blendshape": "mouthFrownRight",
+                    "weight": 50
+                }
+            ]
+        },
+        {
+            "name": "MouthShrugUpper",
+            "values": [
+                {
+                    "blendshape": "mouthShrugUpper",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "MouthSmileLeft",
+            "values": [
+                {
+                    "blendshape": "mouthSmileLeft",
+                    "weight": 40
+                }
+            ]
+        },
+        {
+            "name": "MouthSmileRight",
+            "values": [
+                {
+                    "blendshape": "mouthSmileRight",
+                    "weight": 40
+                }
+            ]
+        },
+        {
+            "name": "MouthStretchLeft",
+            "values": [
+                {
+                    "blendshape": "mouthStretchLeft",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "MouthStretchRight",
+            "values": [
+                {
+                    "blendshape": "mouthStretchRight",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "name": "MouthUpperUpLeft",
+            "values": [
+                {
+                    "blendshape": "mouthUpperUpLeft",
+                    "weight": 80
+                },
+                {
+                    "blendshape": "_mouthUpperUpLeft",
+                    "weight": 25
+                }
+            ]
+        },
+        {
+            "name": "MouthUpperUpRight",
+            "values": [
+                {
+                    "blendshape": "mouthUpperUpRight",
+                    "weight": 80
+                },
+                {
+                    "blendshape": "_mouthUpperUpRight",
+                    "weight": 25
+                }
+            ]
+        },
+        {
+            "name": "NoseSneerLeft",
+            "values": [
+                {
+                    "blendshape": "noseSneerLeft",
+                    "weight": 80
+                }
+            ]
+        },
+        {
+            "name": "NoseSneerRight",
+            "values": [
+                {
+                    "blendshape": "noseSneerRight",
+                    "weight": 80
+                }
+            ]
+        },
+        {
+            "name": "TongueOut",
+            "values": [
+                {
+                    "blendshape": "tongueOut",
+                    "weight": 100
+                }
+            ]
+        }
+    ]
+}
